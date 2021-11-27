@@ -8,4 +8,7 @@
 ### [Undo/Redo feature](https://github.com/aivaraleksiev/UndoRedoFeature)
 Enables undo/redo functionality in your application.
 
+### [Sticky-notes.com](https://github.com/aivaraleksiev/Sticky-notes.com)
+A place where you can  add your notes online.
+
 [linkedin]: https://bg.linkedin.com/in/aivar-aleksiev-088463214
