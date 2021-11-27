@@ -3,4 +3,4 @@
 
 You can find more about me on my [LinkedIn profile](https://bg.linkedin.com/in/aivar-aleksiev-088463214).
 
-## Some of my Hobby Projects 👨‍
+## Some of my Hobby Projects 👨‍ :computer: :closed_book: :grin: :blush:
