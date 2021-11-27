@@ -5,8 +5,7 @@
 ## Some of my Hobby Projects ‍:computer:  :blush:
 
 
-:chart_with_upwards_trend:
-:arrow_upper_right:
-:arrow_up:
+
+
 
 [linkedin]: https://bg.linkedin.com/in/aivar-aleksiev-088463214
