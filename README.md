@@ -1,4 +1,5 @@
-### Hello,I'm Aivar! 👋 [<img align="center" alt="aivaraleksiev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Hello, I'm Aivar! 👋 [<img align="center" alt="aivaraleksiev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 **Software engineer with intereset in writing hobby projects for fun :smile_cat::smile_cat::smile_cat: and personal growth  :arrow_up::arrow_up::arrow_up:.**
 
 
