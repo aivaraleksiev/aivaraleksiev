@@ -5,7 +5,7 @@
 
 ## Some of my Hobby Projects ‍:computer: :blush:
 
-### [Undo/Redo feature](https://github.com/aivaraleksiev/UndoRedoFeature)
+**[Undo/Redo feature](https://github.com/aivaraleksiev/UndoRedoFeature)**
 Enables undo/redo functionality in your application.
 
 [linkedin]: https://bg.linkedin.com/in/aivar-aleksiev-088463214
