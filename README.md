@@ -3,7 +3,7 @@
 **I'm a software engineer with intereset in writing hobby projects for fun :smile_cat::smile_cat::smile_cat: and personal growth 🚀🚀🚀.**
 
 
-## Some of my Hobby Projects ‍:computer: :blush:
+## Some of my Hobby Projects 💻
 
 ### [Undo/Redo feature](https://github.com/aivaraleksiev/UndoRedoFeature)
 Enables undo/redo functionality in your application.
