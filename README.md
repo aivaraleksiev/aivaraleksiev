@@ -11,7 +11,7 @@ A place where you can  add your notes online.
 ### [Undo/Redo feature](https://github.com/aivaraleksiev/UndoRedoFeature)
 Enables undo/redo functionality in your application.
 
-### [1brc](https://github.com/aivaraleksiev/UndoRedoFeature)
+### [1brc](https://github.com/aivaraleksiev/1brc)
 My take on the 1 Billion Row Challenge
 
 [linkedin]: https://bg.linkedin.com/in/aivar-aleksiev-088463214
