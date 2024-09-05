@@ -8,10 +8,10 @@
 ### [Sticky-notes.com](https://github.com/aivaraleksiev/Sticky-notes.com)
 A place where you can  add your notes online.
 
-### [1brc](https://github.com/aivaraleksiev/UndoRedoFeature)
-My take on the 1 Billion Row Challenge
-
 ### [Undo/Redo feature](https://github.com/aivaraleksiev/UndoRedoFeature)
 Enables undo/redo functionality in your application.
+
+### [1brc](https://github.com/aivaraleksiev/UndoRedoFeature)
+My take on the 1 Billion Row Challenge
 
 [linkedin]: https://bg.linkedin.com/in/aivar-aleksiev-088463214
