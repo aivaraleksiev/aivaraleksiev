@@ -1,6 +1,6 @@
 ### Hello, I'm Aivar! 👋
 
-**I'm a software engineer with intereset in writing hobby projects for fun :smile_cat::smile_cat::smile_cat: and personal growth 🚀🚀🚀.**
+**I'm a software engineer with interest in writing hobby projects for fun :smile_cat::smile_cat::smile_cat: and personal growth 🚀🚀🚀.**
 
 
 ## Some of my Hobby Projects 💻
